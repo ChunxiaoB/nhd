@@ -1,6 +1,6 @@
 {
   "name": "NHD 2016",
   "tagline": "Take a stand in history",
-  "body": "An introduction.\r\n",
+  "body": "# Background\r\nHere is the background info\r\n\r\n# Section 1\r\nsecion 1 content\r\n# Section 2\r\nSection 2 content\r\n\r\n# Section 3\r\nsection 3 content\r\n\r\n# Conclusion\r\nThe conclusion is here... \r\n",
   "note": "Don't delete this file! It's used internally to help with page regeneration."
 }
